@@ -8,7 +8,7 @@
     }
     .table tr{
         margin-bottom: 15px;
-        border: 1px solid var(--theame2);
+        border: 1px solid beige;
     }
     .table tbody tr td{
         text-align: right;
