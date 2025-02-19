@@ -19,7 +19,7 @@ body{
     font-family: p;
 }
 .table thead{
-   background-color:white;
+   background-color:rgb(212, 75, 44);
 }
 .table thead tr th{
     padding: 14px 5px;
