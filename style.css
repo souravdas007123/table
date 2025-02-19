@@ -6,7 +6,9 @@
     text-decoration: none;
     box-sizing: border-box;
 }
-
+body{
+    background-color: rgb(42, 40, 40);
+}
 .table-container{
     padding:0 10%;
     margin:40px auto 0;
@@ -17,7 +19,7 @@
     font-family: p;
 }
 .table thead{
-   background-color:var(--theame2);
+   background-color:white;
 }
 .table thead tr th{
     padding: 14px 5px;
